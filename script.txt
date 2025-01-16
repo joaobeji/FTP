@@ -1,0 +1,8 @@
+
+	1. Converter endereço URL para endereço IP:
+	
+	1.1 - Consulta ou Resquest -> ping www.google.com.br -4
+		obs: o -4: significa a versão do ip
+	
+	1.2 - Retorno da conulsta ou Response -> Disparando www.google.com.br [Disparando www.google.com.br [172.217.30.3] com 32 bytes de dados:] com 32 bytes de dados:
+		Obs: Se colocrmos no brower o IP 172.217.30.3 abrirá o site: www.google.com.br 
