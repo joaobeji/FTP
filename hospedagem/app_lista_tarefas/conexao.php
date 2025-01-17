@@ -2,10 +2,10 @@
 
 class Conexao {
 
-	private $host = '';
-	private $dbname = '';
-	private $user = '';
-	private $pass = '';
+	private $host = 'sql103.infinityfree.com';
+	private $dbname = 'if0_38124974_aprenderpubweb';
+	private $user = 'if0_38124974';
+	private $pass = 'yRRhWdXsdH';
 
     public function conectar() {
         try {
